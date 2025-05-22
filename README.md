@@ -58,5 +58,5 @@ This app is suitable for educational or internal tooling. For production:
 
 Contact
 ```````
-Developed by P Ramavarma Raja.
+Developed by Sreevishnu V.
 Feel free to connect for collaboration or feedback.
